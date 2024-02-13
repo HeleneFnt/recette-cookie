@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 # pwd ignore
-*/password-local
-*/password-prod
+*.password-local
+*.password-prod
